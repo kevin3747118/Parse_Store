@@ -1,0 +1,11 @@
+*.idea
+*.ipynb_checkpoints
+*.ipynb
+
+*.log
+
+DB_CONNECTION*
+
+[Tt]est*
+
+__pycache__
